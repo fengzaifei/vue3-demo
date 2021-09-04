@@ -13,7 +13,7 @@ export default {
   }
 }
 </script>
-
+v1
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
